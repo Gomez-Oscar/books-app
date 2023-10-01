@@ -1,0 +1,37 @@
+
+on deployment folder's console
+
+npm create vite@latest books-app -- --template react
+
+cd books-app
+npm i
+npm run dev
+
+delete files and folders you don't need 
+
+within src create folders => components, routes, services and pages
+
+
+npm i react-router-dom 
+
+create a new component called Router(main component)
+define all the routes inside Router 
+
+npm i axios
+
+create services folder
+
+URL_BASE = 'minibackend deployment URL'
+
+implement getBooks function
+
+render the books
+
+npm i sass
+
+create styles using sass
+
+
+
+
+
