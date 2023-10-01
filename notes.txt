@@ -31,7 +31,25 @@ npm i sass
 
 create styles using sass
 
+git init, add, commit
+create an empy repository on github and push the repository
 
+go to vite.config.js and add this line in the defineConfig
+base: 'https://gomez-oscar.github.io/books-app' (profile name/repo name)
 
+paste this 'books-app' in the path attributte on router component
 
+commit changes
 
+go to the github repository, setting, pages
+
+build and deployment => github actions => jekyll => configure
+
+delete all the code in that page 
+
+go to https://vitejs.dev/guide/static-deploy.html#github-pages
+copy that code and paste it in the github page
+
+click on commit changes
+
+go to Actions tab 
