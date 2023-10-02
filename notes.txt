@@ -53,3 +53,25 @@ copy that code and paste it in the github page
 click on commit changes
 
 go to Actions tab 
+
+deployment link => https://gomez-oscar.github.io/books-app/
+
+
+FILTERS
+
+Filter by genre
+
+first obtain an array with all the genres without duplicates
+render those genres using map
+
+
+
+
+Filter by pages
+
+obtain min and max pages
+
+
+
+
+
